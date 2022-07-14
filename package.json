@@ -1,0 +1,23 @@
+{
+  "name": "abdulxoliq-render-box",
+  "version": "1.0.0",
+  "description": "render box image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulxoliq-1030/render-box-image.git"
+  },
+  "keywords": [
+    "abdulxoliq",
+    "render-box"
+  ],
+  "author": "Abdulxoliq Odiljonov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdulxoliq-1030/render-box-image/issues"
+  },
+  "homepage": "https://github.com/Abdulxoliq-1030/render-box-image#readme"
+}
